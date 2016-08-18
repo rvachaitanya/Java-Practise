@@ -1,1 +1,1 @@
-TEST Commti
+TEST COMMIT
